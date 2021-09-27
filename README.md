@@ -1,4 +1,7 @@
 ## 0x18. C - Stacks, Queues - LIFO, FIFO
+
+<br />
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGoOpuGRrpV5A/profile-displayphoto-shrink_800_800/0/1579835514439?e=1638403200&v=beta&t=FClxJSE_cXgqbjF3jJdHrdrOPdDXgO_T7C9X_6PtcA0" /><br />
   <h4 class="task">
     0. push, pall
       <span class="alert alert-warning mandatory-optional">
@@ -767,7 +770,7 @@ julien@ubuntu:~/brainfuck$
 <!-- Task Body -->
   <p>Multiply two digits given by the user.<br />
 <br />
-<img src="http://mein-fun.com/data/media/5/brainfuck_bean.jpg" /><br />
+<img src="https://helloacm.com/wp-content/uploads/2017/08/steemit-brainfuck.png" /><br />
 <br /></p>
 
 <ul>
